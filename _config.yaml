@@ -1,5 +1,5 @@
 # Site settings
-# title: "Wiki"
+title: "Wiki"
 logo: "/title-logo.png"
 remote_theme: pmarsceill/just-the-docs
 description: "Stockholm Changeling LARP Wiki"
@@ -19,9 +19,9 @@ aux_links_new_tab: true
 #    - "https://www..."
 
 # Footer
-footer_content: ""
+footer_content: "Community content distributed by <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>. Content copyrighted by White Wolf Entertainment AB and By Night studios LLC, remains copyrighted to the respective parties. No infringement is intended. Spotted a mistake? Report <a href=\"https://github.com/siliconwitch/changelingsthlm/issues\">issues here</a>. Want to contribute to this wiki? Engage in the <a href=\"https://github.com/siliconwitch/changelingsthlm/discussions\">discussion here</a>."
 last_edit_timestamp: true # Page must have last_modified_date defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+last_edit_time_format: "%b %e %Y"
 
 # Google analytics tracking
 ga_tracking: UA-197568842-1
