@@ -24,7 +24,7 @@ last_edit_timestamp: true # Page must have last_modified_date defined in the fro
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 # Google analytics tracking
-ga_tracking: G-EXFCTK7EWG
+ga_tracking: UA-197568842-1
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings
 
 # Optimisations
