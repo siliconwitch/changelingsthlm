@@ -7,7 +7,12 @@ sudo gem install bundler
 bundle install
 ```
 
-Note if you are on a MacOS, you will need to install 
+***Note if you are on a MacOS, you will need to install command line tools using:***
+
+```bash
+sudo xcode-select --install
+```
+
 Then run the site using:
 
 ```bash
