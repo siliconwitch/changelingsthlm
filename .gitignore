@@ -10,6 +10,3 @@ node_modules
 
 # MacOS cache files
 .DS_Store
-
-# Editor files
-.vscode
